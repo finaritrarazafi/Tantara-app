@@ -1,0 +1,92 @@
+
+html, body{
+	margin:0;
+	font-size: 100%;
+	background: #fff;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.post-date{
+	background: #cdc4ee;
+	padding: 4px;
+	margin: 3px 3px;
+	font-size: 14px;
+	display: block;
+}
+
+.title{
+    color: #2c09c7;
+  
+}
+
+.title-list{
+	text-align : center;
+	color: #ffffff;
+	background: #242352;
+	
+}
+
+.btn-lire{
+    background-color: #318d41;
+    color:#ffffff;
+    
+}
+
+.btn-cancel{
+    background-color: #cc2c2c;   
+    color:#ffffff;
+}
+
+.hr{
+	height: 1px;
+	color: #154b61;
+    background-color: #154b61;  
+	width: 100%;
+	border: none;
+}
+
+
+
+body a {
+	text-decoration:none;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+}
+
+.home-back{
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/bleu.jpg) no-repeat;
+}
+
+.home{
+    color: #ffffff;
+	text-align: center;	
+}
+
+.btn-valid{
+    background-color:#050446;
+    color:#ffffff;
+}
+
+.pagination-links{
+	margin: 30px 0;
+
+}
+
+a.pagination-link{
+	padding: 8px 13px;
+	margin: 5px;
+	background: #f4f4f4;
+	border: 1px #ccc solid;
+}
+
+
+
+
+
+
+
+
+

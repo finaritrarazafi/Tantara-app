@@ -1,0 +1,20 @@
+﻿                    UTILISATION de l'application
+
+- Tout utilisateur peut avoir accès à l'application via l'url et peut choisir le menu
+"lire Tantara" pour lire les tantara déjà partagés.
+
+- Pour pouvoir réaliser un tantara, l'utilisateur doit se connecter par son compte et
+aura ensuite accès au menu "Ecrire tantara".
+
+- Pour avoir un compte, il doit s'inscrire.
+
+- L'utilisateur connecté peut alors ecrire un tantara (le titre et son contenu) et le partager
+pour le rendre visible par tout le monde.
+
+
+Les utilisateurs déjà existants : 
+pseudo : fina
+mot de passe : 111
+
+pseudo : sah
+mot de passe : 1234

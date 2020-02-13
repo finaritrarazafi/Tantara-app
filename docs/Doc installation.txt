@@ -1,0 +1,14 @@
+                              INSTALLATION du projet "Application Tantara" :
+
+
+- Il faut avoir PHP et WAMP installés sur sa machine.
+
+- Pour installer le projet, il faut copier le dossier "tantara.app" 
+qui se trouve dans le répertoire "app" et le coller dans le dossier www de wamp (C:/wamp/www)
+
+- Il faut importer la base de données dans le local sous le nom : "tantaraapp". 
+La base de données se trouve dans le répertoire "data"
+
+- Pour lancer le projet, il faut démarrer wamp et aller à l'URL : 
+http://localhost/tantara.app
+

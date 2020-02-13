@@ -1,0 +1,5 @@
+Les technologies suivantes sont utilisées pour la réalisation de cette application :
+- CodeIgniter 
+- Bootstrap
+- CSS
+- HTML
